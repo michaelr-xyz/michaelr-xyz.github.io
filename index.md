@@ -12,7 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 * * * -->
 
-# SUMMARY/OBJECTIVE
+# SUMMARY / OBJECTIVE
 
 With over 10 years of professional experience, I am a Systems Engineer adept at designing, implementing, and managing server, networking, and data-center technologies. I excel in planning, installing, configuring, and optimizing infrastructures for high availability and performance.
 
