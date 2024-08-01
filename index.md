@@ -16,7 +16,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 With over 10 years of professional experience, I am a Systems Engineer adept at designing, implementing, and managing server, networking, and data-center technologies. I excel in planning, installing, configuring, and optimizing infrastructures for high availability and performance.
 
-**Complex technologies engineered with elegance through simplicity.**
+<!--**Complex technologies engineered with elegance through simplicity.**-->
 
 * * *
 
